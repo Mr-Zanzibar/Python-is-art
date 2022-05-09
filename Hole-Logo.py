@@ -1,4 +1,4 @@
-rom turtle import *
+from turtle import *
 color('cyan')
 bgcolor('black')
 hideturtle()
