@@ -1,5 +1,5 @@
 from turtle import *
-speed(85)
+speed(90)
 color('red')
 bgcolor('black')
 b = 200
